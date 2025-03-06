@@ -8,7 +8,7 @@
           {
             "name": "Hiddify",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/alisamani1378/index-config/refs/heads/main/icons/Hiddify.png",
+            "logo": "https://github.com/alisamani1378/index-config/blob/main/icons/Hiddify.png?raw=true",
             "description": "A secure and fast proxy client.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
             "configLink": "hiddify://import-profile?url={url}",
