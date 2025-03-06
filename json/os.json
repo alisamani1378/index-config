@@ -8,7 +8,7 @@
           {
             "name": "Hiddify",
             "price": "0",
-            "logo": "https://raw.githubusercontent.com/rezamobiny/index/refs/heads/main/icons/hiddify.png",
+            "logo": "https://raw.githubusercontent.com/alisamani1378/index-config/refs/heads/main/icons/Hiddify.png",
             "description": "A secure and fast proxy client.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
             "configLink": "hiddify://import-profile?url={url}",
@@ -146,6 +146,7 @@
             "name": "V2rayN",
             "price": "0",
             "logo": "https://raw.githubusercontent.com/MatinDehghanian/public-assets/refs/heads/main/icons/v2rayN.png",
+          
             "description": "A Windows V2Ray client with GUI support.",
             "faDescription": "v2rayN یک کلاینت V2Ray برای ویندوز با پشتیبانی از رابط کاربری است.",
             "downloadLink": "https://github.com/2dust/v2rayN/releases/latest/download/v2rayN-windows-64-With-Core.zip"
