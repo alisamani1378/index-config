@@ -9,10 +9,10 @@
             "name": "Hiddify",
             "price": "0",
             "logo": "https://github.com/alisamani1378/index-config/blob/main/icons/Hiddify.png?raw=true",
-            "description": "A secure and fast proxy client for iOS.",
-            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای iOS است.",
-            "configLink": "Hiddify://import/{url}",
-            "downloadLink": "https://apps.apple.com/us/app/Hiddify-proxy-vpn/id6596777532?platform=iphone"
+            "description": "A secure and fast proxy client.",
+            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
+            "configLink": "hiddify://import-profile?url={url}",
+            "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
           },
           {
             "name": "Streisand",
@@ -68,8 +68,24 @@
             "description": "A secure and fast proxy client.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
             "configLink": "hiddify://import-profile?url={url}",
-            "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en"
-          
+            "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en",
+            "tutorialSteps": [
+              {
+                "stepText": "Step 1: Download and install the v2rayng app from the Google Play Store.",
+                "faStepText": "مرحله ۱: برنامه v2rayng را از پلی استور دانلود و نصب کنید.",
+                "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/1.jpg?raw=true"
+              },
+              {
+                "stepText": "Step 2: Inside the share link, click on 'Add to App'.",
+                "faStepText": "مرحله ۲: داخل لینک اشتراک بر روی افزودن به برنامه کلیک کنید.",
+                "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/2.jpg?raw=true"
+              },
+              {
+                "stepText": "Step 3: First, go to the configs page from the bottom menu. Then select the server you want. And finally, connect from the bottom of the page.",
+                "faStepText": "مرحله  ۳ : ابتدا سرور مورد نظر را انتخاب کرده. سپس از طریق دکمه پایین صفحه متصل شوید",
+                "stepImage": "https://github.com/alisamani1378/index-config/blob/main/tutorials/v2rayng/3.png?raw=true"
+              }
+            ]
           },
           {
             "name": "V2rayNG",
