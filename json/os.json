@@ -9,10 +9,10 @@
             "name": "Hiddify",
             "price": "0",
             "logo": "https://github.com/alisamani1378/index-config/blob/main/icons/Hiddify.png?raw=true",
-            "description": "A secure and fast proxy client.",
-            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
-            "configLink": "hiddify://import-profile?url={url}",
-            "downloadLink": "https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532?platform=iphone",
+            "description": "A secure and fast proxy client for iOS.",
+            "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع برای iOS است.",
+            "configLink": "Hiddify://import/{url}",
+            "downloadLink": "https://apps.apple.com/us/app/Hiddify-proxy-vpn/id6596777532?platform=iphone"
           },
           {
             "name": "Streisand",
@@ -68,7 +68,7 @@
             "description": "A secure and fast proxy client.",
             "faDescription": "هیدیفای یک کلاینت پراکسی امن و سریع است.",
             "configLink": "hiddify://import-profile?url={url}",
-            "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en",
+            "downloadLink": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en"
           
           },
           {
